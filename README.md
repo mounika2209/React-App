@@ -1,3 +1,7 @@
+# third party api to run movie
+
+https://www.omdbapi.com/apikey.aspx login with email it will share access_token use in your code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
